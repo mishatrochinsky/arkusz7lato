@@ -1,5 +1,6 @@
 *{
     font-family: 'Comic Sans MS','sans-serif';
+    text-align: center;
 }
 nav,footer{
     background-color: #00838F;
@@ -44,4 +45,5 @@ a{
 a:hover{
     color: white;
     text-decoration: underline;
+
 }
